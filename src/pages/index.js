@@ -9,7 +9,7 @@ import styles from "./styles.module.css";
 const features = [
   {
     title: <>Lorem ipsum</>,
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
+    imageUrl: "img/undraw_online_test.svg",
     description: (
       <>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor
@@ -20,7 +20,7 @@ const features = [
   },
   {
     title: <>Lorem ipsum</>,
-    imageUrl: "img/undraw_docusaurus_tree.svg",
+    imageUrl: "img/undraw_books.svg",
     description: (
       <>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor
@@ -31,7 +31,7 @@ const features = [
   },
   {
     title: <>Lorem ipsum</>,
-    imageUrl: "img/undraw_docusaurus_react.svg",
+    imageUrl: "img/undraw_learning.svg",
     description: (
       <>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor
