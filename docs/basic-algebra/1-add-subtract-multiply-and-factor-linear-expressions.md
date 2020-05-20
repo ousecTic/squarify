@@ -45,6 +45,8 @@ $
 
 > ### 3. Divide both numbers by 6
 
+> ### 4. The 6 goes outside the parentheses
+
 ## Question 2 Answer:
 
 $
@@ -92,6 +94,10 @@ $
 >$
 
 > ### 3. Combine like terms
+>
+> $
+>6x - 7y - 8x + 2y
+>$
 >
 > $
 >(6x - 8x) = -2x

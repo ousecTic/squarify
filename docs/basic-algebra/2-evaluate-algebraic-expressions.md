@@ -11,8 +11,9 @@ sidebar_label: Evaluate algebraic expressions
 $
 \text{let  }\thinspace x = 10 , \thinspace y = 4 
 $
+
 $
-\hspace{35pt} \text{Evaluate } 3x - 3y^2 
+\text{Evaluate } 3x - 3y^2 
 $
 
 ---
@@ -39,7 +40,7 @@ $
 
 ## Word Problem Example:
 
-<font size="4">A waitress uses the expression 4h + 5t to calculate how much she makes per day. H stands for hours and t stands for the average tip she gets per table. On Friday the waitress worked 8 hours and had 10 tables. How much did the waitress make that day.</font>
+<font size="4">A waitress uses the expression 4h + 5t to calculate how much she makes per day. H stands for hours and t stands for table. On Friday the waitress worked 8 hours and had 10 tables. How much did the waitress make that day.</font>
 
 <!-- acts like a space -->
 

@@ -24,7 +24,7 @@ module.exports = {
 
       links: [
         {
-          to: "docs/basic-algebra-1",
+          to: "docs/basic-algebra/basic-algebra-1",
           activeBasePath: "tutorials",
           label: "Tutorials",
           position: "left",
@@ -35,7 +35,8 @@ module.exports = {
     footer: {
       style: "dark",
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Ged School`,
+      copyright: ` GED® is a registered trademark of the American Council on Education (ACE) and administered exclusively by GED Testing Service LLC under license. This content is not endorsed or approved by ACE or GED Testing Service. 
+      `,
     },
   },
   presets: [

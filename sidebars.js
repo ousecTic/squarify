@@ -13,11 +13,6 @@ module.exports = {
     Math: [
       {
         type: "category",
-        label: "Basic Math",
-        items: ["basic-algebra-1"],
-      },
-      {
-        type: "category",
         label: "Basic Algebra",
         items: [
           "basic-algebra/basic-algebra-1",
@@ -33,6 +28,23 @@ module.exports = {
           "basic-algebra/basic-algebra-11",
         ],
       },
+      {
+        type: "category",
+        label: "Basic Math",
+        items: [
+          "basic-math-1",
+          "basic-math/basic-math-2",
+          "basic-math/basic-math-3",
+          "basic-math/basic-math-4",
+          "basic-math/basic-math-5",
+          "basic-math/basic-math-6",
+          "basic-math/basic-math-7",
+          "basic-math/basic-math-8",
+          "basic-math/basic-math-9",
+          "basic-math/basic-math-10",
+        ],
+      },
+
       {
         type: "category",
         label: "Geometry",

@@ -19,6 +19,10 @@ $
 ## Add Polynomial Steps:
 
 > ### 1. Combine like terms
+>
+> $
+>2x + 3 + 5x + 6
+>$
 
 > $
 > \text{2. }\quad 2x + 5x = 7x
@@ -45,26 +49,26 @@ $
 $
 
 $
-(2x + 3) - (5x + 6)
+(4x + 5) - (8x - 2)
 $
 
 ---
 
 ## Subtract Polynomial Steps:
 
-> ### 1. Make the minus sign in the middle a plus
->
-> $
-> (4x + 5) + (8x - 2)
->$
+> ### 1. Distribute the minus sign in the middle
 
-> ### 2. Change all the signs to the right of the minus sign
+> ### 2. Flip all the signs to the right of the parenthesis. The minus sign becomes a positive after distributing
 >
 > $
 > (4x + 5) + (-8x + 2)
 >$
 
 > ### 3.Combine like terms
+>
+> $
+> 4x + 5 - 8x + 2
+>$
 >
 > $
 > (4x - 8x) = -4x
@@ -211,6 +215,7 @@ $
 > ### 2. Find which factors can add up to the middle term
 >
 > ![alt text](https://lh3.googleusercontent.com/FPoANIaiODcC8SLgVLU9SPqceGcpngjaM8dCU4ukeymcQas4U7kiIkqQ43yK34RHFk-mp761IWok1AC02aXMzbwbW1zJNEiAcqoF-7ixr_hoXsrN-uE-euuHBy_ygfeTFYkEMovj=w2400 "Logo Title Text 1")
+> 2 x 6 = 12(last term) and 2 + 6 = 8(middle term)
 
 ## Factor Polynomial Answer:
 
