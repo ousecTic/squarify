@@ -8,36 +8,32 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <>Lorem ipsum</>,
+    title: <>Math Tutorials</>,
     imageUrl: "img/undraw_online_test.svg",
     description: (
       <>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor
-        rutrum nibh, non convallis maurisLorem ipsum dolor sit amet, consectetur
-        adipiscing elit. Praesent tempor rutrum nibh, non convallis mauris
+        In our maths tutorial, we go over common problems discuss in the GED
+        exam and provide the steps to conquering them.
       </>
     ),
   },
   {
-    title: <>Lorem ipsum</>,
+    title: <>Study Groups</>,
     imageUrl: "img/undraw_books.svg",
     description: (
       <>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor
-        rutrum nibh, non convallis maurisLorem ipsum dolor sit amet, consectetur
-        adipiscing elit. Praesent tempor rutrum nibh, non convallis mauris
+        Need help or trying to find a study buddy? Join our Facebook group and
+        discord to collaborate with like-minded people.
       </>
     ),
   },
   {
-    title: <>Lorem ipsum</>,
+    title: <>Feedback</>,
     imageUrl: "img/undraw_learning.svg",
     description: (
       <>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor
-        rutrum nibh, non convallis mauris.Lorem ipsum dolor sit amet,
-        consectetur adipiscing elit. Praesent tempor rutrum nibh, non convallis
-        mauris
+        Please feel free to provide feedback. We are constantly seeking to
+        improve GED school to best-fit people's needs.
       </>
     ),
   },

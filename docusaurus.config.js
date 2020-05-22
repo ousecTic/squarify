@@ -29,9 +29,25 @@ module.exports = {
           label: "Tutorials",
           position: "left",
         },
+        {
+          to:
+            "https://docs.google.com/forms/d/e/1FAIpQLSevIBQPyKWi25Eym5AB1dneEgnOI9o_s9EqIQi9My9KxZ_Z1w/viewform",
+          label: "review",
+          position: "right",
+        },
         { to: "blog", label: "Blog", position: "right" },
       ],
     },
+
+    plugins: ["@docusaurus/plugin-google-analytics"],
+    themeConfig: {
+      googleAnalytics: {
+        trackingID: "G-FPX6D1EJ4D",
+        // Optional fields.
+        anonymizeIP: true, // Should IPs be anonymized?
+      },
+    },
+
     footer: {
       style: "dark",
       links: [],
