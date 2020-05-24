@@ -5,7 +5,9 @@ title: Add, subtract, multiply, and factor linear expressions
 sidebar_label: Add, subtract, multiply, and factor linear expressions
 ---
 
-<font size="5">Simplify linear expressions by adding, subtracting, multiplying, expanding and factoring</font>
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+<font size="5">Simplify linear expressions by adding, subtracting, multiplying, expanding and factoring </font>
 
 ## Question 1:
 
@@ -17,14 +19,14 @@ $
 
 ## Question 1 Steps:
 
-> ### 1. Distribute 6 to both the numbers in the parenthesis
+> ### 1. Distribute 6 to both numbers in the parenthesis
 
 > ### 2. Multiply 6 by 2x and -5
 
 ## Question 1 Answer:
 
 $
-12x - 10 
+12x - 30 
 $
 
 ---
@@ -81,16 +83,14 @@ $
 
 ## Word Problem Steps:
 
-> ### 1. Make the minus sign in the middle a plus
+> ### 1. Distribute the minus sign in the middle
 >
-> $
-> (6x - 7y) + (8x - 2y)
-> $
+> <img alt="distribute negative sign" src={useBaseUrl('curriculum-img/math/basic-algebra/1/1.png')} />
 
-> ### 2. Change all the signs to the right of the minus
+> ### 2. Flip all the signs to the right of the parenthesis . The minus sign becomes positive after distributings
 >
 > $
->(6x - 7y) + (-8x - 2y)
+>(6x - 7y) + (-8x + 2y)
 >$
 
 > ### 3. Combine like terms

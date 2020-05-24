@@ -81,5 +81,5 @@ $
 ## Word Problem Answer:
 
 $
-\text{B) } -2x - 5y
+\text{B) } 82
 $

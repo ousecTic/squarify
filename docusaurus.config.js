@@ -2,13 +2,13 @@ const math = require("remark-math");
 const katex = require("rehype-katex");
 
 module.exports = {
-  title: "Ged School",
-  tagline: "GED School Provides Free tutorial over Math",
-  url: "https://ged-school.com",
+  title: "Squarify",
+  tagline: "Squarify provides Free tutorial over GED math",
+  url: "https://squarify.com",
   baseUrl: "/",
   favicon: "img/favicon.ico",
-  organizationName: "GED school", // Usually your GitHub org/user name.
-  projectName: "ged_school", // Usually your repo name.
+  organizationName: "Squarify", // Usually your GitHub org/user name.
+  projectName: "Squarify", // Usually your repo name.
   stylesheets: [
     {
       href: "https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css",
@@ -20,7 +20,7 @@ module.exports = {
   ],
   themeConfig: {
     navbar: {
-      title: "Ged School",
+      title: "Squarify",
 
       links: [
         {
@@ -32,10 +32,9 @@ module.exports = {
         {
           to:
             "https://docs.google.com/forms/d/e/1FAIpQLSevIBQPyKWi25Eym5AB1dneEgnOI9o_s9EqIQi9My9KxZ_Z1w/viewform",
-          label: "review",
+          label: "Feedback",
           position: "right",
         },
-        { to: "blog", label: "Blog", position: "right" },
       ],
     },
 

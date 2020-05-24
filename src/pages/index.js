@@ -33,7 +33,7 @@ const features = [
     description: (
       <>
         Please feel free to provide feedback. We are constantly seeking to
-        improve GED school to best-fit people's needs.
+        improve squarify to best-fit people's needs.
       </>
     ),
   },
@@ -60,7 +60,7 @@ function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="ged-school <head />"
+      description="squarify <head />"
     >
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">

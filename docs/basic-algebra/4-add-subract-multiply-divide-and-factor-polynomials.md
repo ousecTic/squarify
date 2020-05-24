@@ -4,6 +4,8 @@ title: Add, subtract, multiply, divide,and factor polynomials
 sidebar_label: Add, subtract, multiply, divide,and factor polynomials
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## Add Polynomial Question:
 
 $
@@ -57,6 +59,8 @@ $
 ## Subtract Polynomial Steps:
 
 > ### 1. Distribute the minus sign in the middle
+>
+> <img alt="distribute the negative" src={useBaseUrl('curriculum-img/math/basic-algebra/4/1.png')} />
 
 > ### 2. Flip all the signs to the right of the parenthesis. The minus sign becomes a positive after distributing
 >
@@ -104,7 +108,7 @@ $
 
 > ### Use the Foil method (First Outer Inner Last)
 >
-> ![alt text](https://lh3.googleusercontent.com/cqZB72ydajw7sqqcB2SYMc1NbwOFAGOpAb5uJXYnPP8vJ1z9lnoMbG_GY-ZyKNepS0ka4bTUfC3jB9PEg2XxfnlTUS03qLirHOmffiGFMq57AT4dgeLmuN3YeGjAhG4Jyod1U9pE "Logo Title Text 1")
+> <img alt="using the foil method" src={useBaseUrl('curriculum-img/math/basic-algebra/4/2.png')} />
 
 > ### 1. Multiply the first number of both parenthesis
 >
@@ -153,7 +157,7 @@ $
 $
 
 $
-{\Large \frac{(2x + 3)}{(6x^2 + 7x - 20)}}
+{\Large \frac{(2x + 5)}{(6x^2 + 7x - 20)}}
 $
 
 ---
@@ -162,36 +166,36 @@ $
 
 > ### 1. Convert into long division format
 >
-> ![alt text](https://lh3.googleusercontent.com/YDhmTICDsiveUzL2Yu8h21vjr78pYl4KogniEsJ7B1SbnSxfTdYZIW_pjYkIzte-C03OghTTti_NNn3K6zEnA1l_W9QRjXJj6lQ8Oo4pndEe5FW2-BEBMe-Z05ZSzH9YnTKsYSga=w2400 "Logo Title Text 1")
+> <img alt="first step to dividing polynomial" src={useBaseUrl('curriculum-img/math/basic-algebra/4/3.png')} />
 
 > ### 2. Divide the first number in the box and out of the box
 >
-> ![alt text](https://lh3.googleusercontent.com/XKx8Z4TgVbeD3TGO7-oiS4sWhT55_SPIg3_082fuC-_P9pkC7Rx7jFcgt2-cBfLC1UrmGVBC9BmjgHXrepMTV2bP_0SY3hU7qrj4FTkXAVo0W32xeNZcA-OYYphe42vWvIgEMFdZ=w2400 "Logo Title Text 1")
+> <img alt="second step to dividing polynomial" src={useBaseUrl('curriculum-img/math/basic-algebra/4/4.png')}/>
 
 > ### 3. Multiply 3x to (2x + 5) = 6x<sup>2</sup> + 15x
 >
-> ![alt text](https://lh3.googleusercontent.com/YVUf0GePfrs_oKcHv-IveMM7Rp1mWIRNxc4ToKDDNZPZCsVLPFtabfWh5uh7u8FRLXANqzRHM6nYl8bVioUdRQD8rjRMfQe5ALjZ3mD83DSQzxC7oC8dRB24at-oS6CDFTBndNSH=w2400 "Logo Title Text 1")
+> <img alt="third step to dividing polynomial" src={useBaseUrl('curriculum-img/math/basic-algebra/4/5.png')}/>
 
 > ### 4. Subtract 6x<sup>2</sup> + 15x from 6x<sup>2</sup> + 7x - 20
 >
-> ![alt text](https://lh3.googleusercontent.com/aonCqpzVBCkqHWoWl3Rw1mldLu1FLMKfx3JJ-NctotvyapFUWxhNszlhdDy3jtvLKUQYNzKmV517tumBiovgpYNR8RPVUYYHUvVipFIBR8ZGZK1y3_ugOZTayA8uspx44EXcBEoJ=w2400 "Logo Title Text 1")
+> <img alt="fourth step to dividing polynomial" src={useBaseUrl('curriculum-img/math/basic-algebra/4/6.png')}/>
 
 > ### 5. Divide -8x by 2x = - 4
 >
-> ![alt text](https://lh3.googleusercontent.com/MrrK5A2VBvCRzf2hp4MgxFJ34lsFlIdicDsZOzKAdjJHSUJ0EgPxyb9KTyCl-1SPUnjftEymOSHlHnnufMJY2qstzOTMllbRnTNeH_MKBNE2hJXkSzxN90EZPF-Z41OV8E7lf4Qm=w2400 "Logo Title Text 1")
+> <img alt=" fifth step to dividing polynomial" src={useBaseUrl('curriculum-img/math/basic-algebra/4/7.png')}/>
 
-> ### 6. Multiply -4 by 2x + 5 = -8x -20
+> ### 6. Multiply -4 by 2x + 5 = -8x - 20
 >
-> ![alt text](https://lh3.googleusercontent.com/7sNJvUI8XkAUmlTg9Rr_0fT_ByQtxJGfUxqJnSFyHL41kZ7e2LRzUTxNWVBCasN3totp72Z_3RdgfS15wfyL4VlpgCec8GKZGjYsbz4SnErfuEnwZmRlK8WWiKXoIfizHgsgPfzW=w2400 "Logo Title Text 1")
+> <img alt="ssixth step to dividing polynomial" src={useBaseUrl('curriculum-img/math/basic-algebra/4/8.png')}/>
 
 > ### 7. Subtract 8x + 20 by -8x - 20 = 0
 >
-> ![alt text](https://lh3.googleusercontent.com/wvn5OGHql2vd9SJTNI2VQwsyTtxfvt7wTvOXfw8IFLJo9D2pZa-QirSnovBa7WiYxuceLQH1_d5ecbLtkpsxj74l5UlaEZpiDxEss3Pco00SbV33_WrguX3qi3juHDNsA4jTB9Hd=w2400 "Logo Title Text 1")
+> <img alt="seventh step to dividing polynomial" src={useBaseUrl('curriculum-img/math/basic-algebra/4/9.png')}/>
 
 ## Divide Polynomial Answer:
 
 $
- {\Large\frac{1}{3x-4}}
+ 3x - 4
 $
 
 <!--Factor polynomial -->
@@ -214,8 +218,9 @@ $
 
 > ### 2. Find which factors can add up to the middle term
 >
-> ![alt text](https://lh3.googleusercontent.com/FPoANIaiODcC8SLgVLU9SPqceGcpngjaM8dCU4ukeymcQas4U7kiIkqQ43yK34RHFk-mp761IWok1AC02aXMzbwbW1zJNEiAcqoF-7ixr_hoXsrN-uE-euuHBy_ygfeTFYkEMovj=w2400 "Logo Title Text 1")
-> 2 x 6 = 12(last term) and 2 + 6 = 8(middle term)
+> <img alt="find factors with table method" src={useBaseUrl('curriculum-img/math/basic-algebra/4/10.png')} />
+>
+> ### 2 x 6 = 12(last term) and 2 + 6 = 8(middle term)
 
 ## Factor Polynomial Answer:
 
@@ -261,7 +266,7 @@ $
 
 > ### Use the Foil method (First Outer Inner Last)
 >
-> ![alt text](https://lh3.googleusercontent.com/Qldhb5vYQk7qpV_U1pj_Fcfe1CPAKx_npbeirQ9MbhXPA-XI3cHBghiI26UMbEJl5hPyinwAc-_AB87sMy1q_3s9gaxWwiTMWwA7XCU8B8AhCE45qETUGbSIQJ2mxpO1U6DScCky=w2400 "Logo Title Text 1")
+> <img alt="using the foil method" src={useBaseUrl('curriculum-img/math/basic-algebra/4/11.png')} />
 
 > ### 1. Multiply the first number of both parenthesis
 >
