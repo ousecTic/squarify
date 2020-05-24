@@ -44,17 +44,6 @@ module.exports = {
           "basic-math/basic-math-10",
         ],
       },
-
-      {
-        type: "category",
-        label: "Geometry",
-        items: ["doc2"],
-      },
-      {
-        type: "category",
-        label: "Graph and Functions",
-        items: ["doc3"],
-      },
     ],
   },
 };
