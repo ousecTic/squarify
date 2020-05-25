@@ -1,7 +1,7 @@
 ---
-id: basic-math-3
-title: Simplify Exponents
-sidebar_label: Simplify Exponents
+id: basic-math-2
+title: Simplify exponents
+sidebar_label: Simplify exponents
 ---
 
-Basic Math
+import useBaseUrl from '@docusaurus/useBaseUrl';
