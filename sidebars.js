@@ -42,6 +42,8 @@ module.exports = {
           "basic-math/basic-math-8",
           "basic-math/basic-math-9",
           "basic-math/basic-math-10",
+          "basic-math/basic-math-11",
+          "basic-math/basic-math-12",
         ],
       },
     ],

@@ -4,87 +4,77 @@ title: Fractions and decimals in order
 sidebar_label: Fractions and decimals in order
 ---
 
-## Question 1:
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
-<font size="5">Place fractions and decimals in order from smallest to largest</font>
+## Question:
 
-$
-\text{ }
-$
+<font size="5">Order the set of numbers from least to greatest</font>
 
 $
- \Large\frac{5}{8}\text{ , }0.79\text{ , }\Large\frac{2}{5}\text{ , }0.2
+ \text{ }
+$
+
+$
+\Large\frac{1}{5},0.1,\frac{3}{10},0.4
 $
 
 ---
 
-## Question 1 Steps:
+## Question Steps:
 
-> ### 1. Convert all values to a decimal . Use long division to convert the fractions to decimal
+> ### 1. Convert all fractions into decimals
+
+> ### 2. Take the numerator and divide it by the denominator using long division. Example(1 / 5 and 3 / 10)
 >
-> |                  5/8                   |                 2/5                  |
-> | :------------------------------------: | :----------------------------------: |
-> | ![](https://i.imgur.com/tQgYWac.png?1) | ![](https://i.imgur.com/yRd1P3z.png) |
+> <img alt="dividing numerator and denominator" src={useBaseUrl("curriculum-img/math/basic-math/1/1.png")} />
+> <img alt="dividing numerator and denominator" src={useBaseUrl("curriculum-img/math/basic-math/1/2.png")} />
 
-> ### 2. Order the decimal from least to greatest
+> ### 3. Arrange the numbers from greatest to least
 >
 > $
-> \Large0.65\text{ , }0.79\text{ , }0.4\text{ , }0.2\longrightarrow\Large0.65\text{ , }0.79\text{ , }0.4\text{ , }0.2 
-> $
+\Large0.1 , 0.2 , 0.3 , 0.4
+$
 
-## Question 1 Answer:
+### Question Answer:
 
 $
-\Large0.2 \text{ , } 0.4 \text{ , } 0.625 \text{ , } 0.79
+\Large0.1,\frac{1}{5},\frac{3}{10},0.4
 $
 
 ---
 
 ## Word Problem Example:
 
-<font size="5"> Between which pair of decimals should 3/8 be placed on a number line? </font>
+<font size="5">Between which pair of decimals should 5/9 be placed on a number line?</font>
 
 $
- \text{ }
-$
-
-$
- \large\text{A) } 0.3 \text{ and } 0.4
-$
-$
- \text{ }
+\text{ }
 $
 
 $
- \large\text{B) } 0.4 \text{ and } 0.5
-$
-$
- \text{ }
+ \text{A) } 0.4 \text{ and } 0.5
 $
 
 $
- \large\text{C) } 0.5 \text{ and } 0.6
-$
-$
- \text{ }
+\text{B) } 0.5 \text{ and } 0.6
 $
 
 $
- \large\text{D) } 0.6 \text{ and } 0.7
+\text{C) } 0.6 \text{ and } 0.7
 $
 
-## Word Problem Example Steps:
+$
+\text{D) } 0.7 \text{ and } 0.8
+$
 
-> ### 1. Convert $\frac{3}{8}$ to a decimal by using long division
->
-> <p align="center"><img src="https://i.imgur.com/bjgxbO1.png" /></p>
+---
 
-> ### 2. Figure out where $0.375$ is on a number line
->
-> <p align="center"><img src="https://i.imgur.com/YhQfmGI.png" /></p>
+## Word Problem Steps:
 
-## Word Problem Example Answer:
+> ### Turn the fraction 5/9 into a decimal by dividing 5 by 9.
+
+## Word Problem Answer:
 
 $
- \large\text{A) } 0.3 \text{ and } 0.4
+ \Large\text{ B) }
 $
