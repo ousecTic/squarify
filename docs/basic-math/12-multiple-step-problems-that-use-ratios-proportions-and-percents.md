@@ -17,7 +17,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Simple Interest Question:
 
-<font size="5">You are starting a buisness in Texas. You borrow 20,000 from your local bank at 11% rate for 10 years. What is the interest you will pay on this loan? </font>
+<font size="5">You are starting a business in Texas. You borrow 20,000 dollars from your local bank at 11% rate for 10 years. What is the interest you will pay on this loan? </font>
 
 ## Simple Interest Question Steps:
 
@@ -87,7 +87,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Commission Question:
 
-<font size="5">Tracy makes a commission of 20% on each furniture that is sold at the store. Each furniture costs \$100. How much money will she make in commision if she sells 30 pieces of furniture. </font>
+<font size="5">Tracy makes a commission of 20% on each furniture that is sold at the store. Each furniture costs 100 dollars. How much money will she make in commision if she sells 30 pieces of furniture. </font>
 
 ## Comission Question Step:
 
@@ -133,7 +133,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 > ### 5. Change your new percent to a decimal by moving the decimal two times to left or dividing by 100.
 >
-> ### 100% => 1.1
+> ### 110% => 1.1
 
 > ### 6. Multiply the percent increase decimal to the taxed cost of the item
 >

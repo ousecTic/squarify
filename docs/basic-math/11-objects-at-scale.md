@@ -42,7 +42,7 @@ $
 
 > ### 1. Set up a proportion
 >
-> ### The unit com is on top
+> ### The unit cm is on top
 >
 > ### The unit miles is on bottom
 >

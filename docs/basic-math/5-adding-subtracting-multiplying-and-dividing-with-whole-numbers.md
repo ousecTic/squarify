@@ -33,24 +33,24 @@ $
 > ### 1. Solve inside the parentheses first by subtracting 5 and 3.
 >
 > $
-  \large 18 \div 9 \times (\textcolor{red}{2}) + 6
+  \large 18 \div 9 \times (\textcolor{red}{1}) + 6
 $
 
 > ### 2. Next, divide 18 and 9
 >
 > $
-  \large (\textcolor{red}{2}) \times (2) + 6
+  \large (\textcolor{red}{2}) \times (1) + 6
 $
 
 > ### 3. Next, multiply 2 and 2
 >
 > $
-  \large (\textcolor{red}{4}) + 6
+  \large (\textcolor{red}{2}) + 6
 $
 
 ## Question One Answer:
 
-<font size="5">10</font>
+<font size="5">8</font>
 
 ---
 

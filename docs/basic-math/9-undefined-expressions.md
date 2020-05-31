@@ -40,5 +40,5 @@ $
 ## Word Problem Question Answer:
 
 $
-  {\LARGE \frac{5}{0}} \large \text{ because the denominator is } 0
+   {\Large \text{ A) }\LARGE  \frac{5}{0}} \large \text{ because the denominator is } 0
 $

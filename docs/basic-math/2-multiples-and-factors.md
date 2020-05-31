@@ -58,7 +58,7 @@ $
 
 ## Multiples Question Step:
 
-> ### Multiple 6 by a different number
+> ### Multiply 6 by a different number
 >
 > $
   \textbf{6} (6 \times 1)
@@ -120,13 +120,13 @@ $
 
 ## Factors Question One:
 
-<font size="5">What are the factors for 30</font>
+<font size="5">What are the factors for 30?</font>
 
 ---
 
 ## Factors Question One Steps:
 
-> ### 1. Find the all the numbers that can multiply to 30 .
+> ### 1. Find the all the numbers that can multiply to 30.
 >
 > ### Start with the number one and work your way down
 >
@@ -140,17 +140,17 @@ $
 
 ## Factors Question Two:
 
-<font size="5">What is the greatest common factors for 20 and 40</font>
+<font size="5">What is the greatest common factors for 20 and 40?</font>
 
 ---
 
 ## Factors Question Two Steps:
 
 > ### 1. Find the factors for 20 and 40
-
-> ### 2. Find the highest factor for both 20 and 40
 >
 > <img alt="finding the factor between 20 and 40" src={useBaseUrl('curriculum-img/math/basic-math/2/3.png')} />
+
+> ### 2. Find the highest factor for both 20 and 40
 
 ## Factors Question Two Answer:
 

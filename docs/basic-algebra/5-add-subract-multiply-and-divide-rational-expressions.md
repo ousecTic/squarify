@@ -38,7 +38,7 @@ $
 ## Subtracting rational expression Question:
 
 $
-{\Large\text{Add }\thinspace{\huge{\frac{5}{x}}} - {\huge{\frac{2x + 2}{2x + 5}}}}
+{\Large\text{Subtract }\thinspace{\huge{\frac{5}{x}}} - {\huge{\frac{2x + 2}{2x + 5}}}}
 $
 
 ---
@@ -118,5 +118,5 @@ $
 ## Dividing rational expression Answer:
 
 $
-{{\huge\frac{14x^2 - 35x}{16}}}
+{{\huge\frac{14x^2 - 35x}{16x}}}
 $

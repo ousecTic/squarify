@@ -32,15 +32,15 @@ $
 ## Word Problem Steps:
 
 > ### Use the Quadratic Equation
-
+>
 > $\LARGE x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$.
-
+>
 > ### 1. A = first term number
 >
 > ### 2. B = second term number
 >
 > ### 3. C = third term number
->
+
 > $\Large a = 2$
 >
 > $\Large b = 3$
@@ -63,11 +63,11 @@ $
 >
 > ### One has a plus sign and the other has a minus sign
 >
-> <img alt="combine all the numbers together" src={useBaseUrl('curriculum-img/math/basic-algebra/11/5.png')} />
+> <img alt="combine all the numbers together" src={useBaseUrl('curriculum-img/math/basic-algebra/11/6.png')} />
 
 > ### 5. Simplify answer
 >
-> <img alt="combine all the numbers together" src={useBaseUrl('curriculum-img/math/basic-algebra/11/5.png')} />
+> <img alt="combine all the numbers together" src={useBaseUrl('curriculum-img/math/basic-algebra/11/7.png')} />
 
 ### Word Problem Answer:
 

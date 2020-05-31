@@ -73,19 +73,19 @@ $
 
 ---
 
-## Question One:
+## Adding Radicals Question:
 
 $
   \Large 4 \sqrt{5} + 2 \sqrt{5}
 $
 
-## Question One Step:
+## Adding Radicals Question Step:
 
 > $
   \Large 4 \sqrt{5} + 2 \sqrt{5} = 6 \sqrt{5}
 $
 
-## Question One Answer:
+## Adding Radicals Question Answer:
 
 $
   \Large 6 \sqrt{5}
@@ -93,19 +93,19 @@ $
 
 ---
 
-## Question Two:
+## Subtract Radicals Question:
 
 $
   \Large 12 \sqrt{3} - 5 \sqrt{3}
 $
 
-## Question Two Step:
+## Subtract Radicals Question Step:
 
 > $
-  \Large 12 \sqrt{3} + 5 \sqrt{3} = 7 \sqrt{3}
+  \Large 12 \sqrt{3} - 5 \sqrt{3} = 7 \sqrt{3}
 $
 
-## Question Two Answer:
+## Subtract Radicals Question Answer:
 
 $
   \Large 7 \sqrt{3}
@@ -126,17 +126,17 @@ $
 
 ---
 
-## Question Three:
+## Multiply Radicals Question:
 
 $
   \Large 3 \sqrt{5} \times 2 \sqrt{7}
 $
 
-## Question Three Step:
+## Multiply Radicals Question Step:
 
 > <img alt="solving question three" src={useBaseUrl('curriculum-img/math/basic-math/8/2.png')} />
 
-## Question Three Answer:
+## Multiply Radicals Question Answer:
 
 $
   \Large 6 \sqrt{35}
@@ -157,17 +157,17 @@ $
 
 ---
 
-## Question Four:
+## Divide Radicals Question:
 
 $
   \huge \frac{6 \sqrt{35}}{2 \sqrt{7}}
 $
 
-## Question Four Steps:
+## Divide Radicals Question Steps:
 
 > <img alt="solving question four" src={useBaseUrl('curriculum-img/math/basic-math/8/3.png')} />
 
-## Question Four Answer:
+## Divide Radicals Question Answer:
 
 $
   \Large 3 \sqrt{5}

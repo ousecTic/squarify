@@ -9,7 +9,7 @@ sidebar_label: Evaluate algebraic expressions
 ## Question 1:
 
 $
-\text{let  }\thinspace x = 10 , \thinspace y = 4 
+\text{let  }\thinspace x = 10 , \thinspace y = -4 
 $
 
 $

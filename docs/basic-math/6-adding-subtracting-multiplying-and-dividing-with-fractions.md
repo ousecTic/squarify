@@ -92,10 +92,16 @@ $
   \LARGE \frac{12 + 21}{42} = \frac{33}{42}
 $
 
+> ### 4. Reduce the fraction by dividing the numerator and denominator by 3.
+>
+> $
+   \LARGE \frac{33}{42} = \frac{11}{14}
+$
+
 ## Question Two Answer:
 
 $
-  \LARGE \frac{33}{42}
+  \LARGE \frac{11}{14}
 $
 
 ---

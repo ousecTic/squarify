@@ -38,7 +38,7 @@ $
 
 > ### 1. 100 dollar is the initial amount
 
-> ### 2. 10 dollars is the number that is increasing per hour
+> ### 2. 10 dollars is the rate that is increasing per hour
 
 ## Word Problem Answer:
 

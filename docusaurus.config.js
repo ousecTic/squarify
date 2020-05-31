@@ -6,7 +6,7 @@ module.exports = {
   tagline: "Squarify provides Free tutorial over GED math",
   url: "https://squarify.com",
   baseUrl: "/",
-  favicon: "img/favicon.ico",
+  favicon: "img/squarify-logo.png",
   organizationName: "Squarify", // Usually your GitHub org/user name.
   projectName: "Squarify", // Usually your repo name.
   stylesheets: [
@@ -19,20 +19,36 @@ module.exports = {
     },
   ],
   themeConfig: {
+    image: "img/squarify-logo.png",
+
     navbar: {
       title: "Squarify",
-
+      hideOnScroll: true,
+      logo: {
+        alt: "Squarify",
+        src: "img/squarify-logo.png",
+      },
       links: [
         {
-          to: "docs/basic-algebra/basic-algebra-1",
+          to: "/docs/basic-math-1",
           activeBasePath: "tutorials",
           label: "Tutorials",
           position: "left",
         },
         {
-          to:
+          href:
             "https://docs.google.com/forms/d/e/1FAIpQLSevIBQPyKWi25Eym5AB1dneEgnOI9o_s9EqIQi9My9KxZ_Z1w/viewform",
           label: "Feedback",
+          position: "right",
+        },
+        {
+          href: "https://www.facebook.com/groups/865336430638379/",
+          label: "Facebook",
+          position: "right",
+        },
+        {
+          href: "https://discord.gg/3YUfPZf",
+          label: "Discord",
           position: "right",
         },
       ],
@@ -41,7 +57,7 @@ module.exports = {
     plugins: ["@docusaurus/plugin-google-analytics"],
     themeConfig: {
       googleAnalytics: {
-        trackingID: "G-FPX6D1EJ4D",
+        trackingID: "G-EM4MYTXSMV",
         // Optional fields.
         anonymizeIP: true, // Should IPs be anonymized?
       },
@@ -49,7 +65,49 @@ module.exports = {
 
     footer: {
       style: "dark",
-      links: [],
+
+      links: [
+        {
+          title: "Math Tutorials",
+          items: [
+            {
+              label: "Basic Math",
+              to: "docs/basic-math-1",
+            },
+            {
+              label: "Basic Algebra",
+              to: "docs/basic-algebra/basic-algebra-1",
+            },
+          ],
+        },
+        {
+          title: "Community",
+          items: [
+            {
+              label: "Discord",
+              href: "https://discord.gg/3YUfPZf",
+            },
+            {
+              label: "Facebook",
+              href: "https://www.facebook.com/groups/865336430638379/",
+            },
+          ],
+        },
+        {
+          title: "Feedback",
+          items: [
+            {
+              label: "Feedback form",
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSevIBQPyKWi25Eym5AB1dneEgnOI9o_s9EqIQi9My9KxZ_Z1w/viewform",
+            },
+          ],
+        },
+      ],
+      logo: {
+        alt: "Squarify logo",
+        src: "img/squarify-logo.png",
+      },
       copyright: ` GED® is a registered trademark of the American Council on Education (ACE) and administered exclusively by GED Testing Service LLC under license. This content is not endorsed or approved by ACE or GED Testing Service. 
       `,
     },

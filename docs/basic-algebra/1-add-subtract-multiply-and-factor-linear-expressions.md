@@ -17,11 +17,11 @@ $
 
 ---
 
-## Question 1 Steps:
+## Question 1 Step:
 
-> ### 1. Distribute 6 to both numbers in the parenthesis
-
-> ### 2. Multiply 6 by 2x and -5
+> ### Distribute 6 to both numbers in the parenthesis.
+>
+> ### Multiply 6 by 2x and -5
 
 ## Question 1 Answer:
 

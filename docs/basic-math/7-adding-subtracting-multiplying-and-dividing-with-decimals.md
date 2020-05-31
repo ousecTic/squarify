@@ -23,19 +23,19 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ---
 
-## Question One:
+## Add Decimal Question:
 
 $
   \Large 0.32 + 12.965
 $
 
-## Question One Step:
+## Add Decimal Question Step:
 
 > ### Line up the decimals and add.
 >
 > <img alt="Line up the decimals and add." src={useBaseUrl('curriculum-img/math/basic-math/7/1.png')} />
 
-## Question One Answer:
+## Add Decimal Question Answer:
 
 $
   \Large 13.285
@@ -60,19 +60,19 @@ $
 
 ---
 
-## Question Two:
+## Subtract Decimal Question:
 
 $
   \Large 17.2 - 5.247
 $
 
-## Question Two Step:
+## Subtract Decimal Question Step:
 
 > ### Line up the decimals and subtract
 >
 > <img alt="Subtract the columns together and keep the decimal point lined up" src={useBaseUrl('curriculum-img/math/basic-math/7/2.png')} />
 
-## Question Two Answer:
+## Subtract Decimal Question Answer:
 
 $
   \Large 11.953
@@ -97,17 +97,17 @@ $
 
 ---
 
-## Question Three:
+## Multiply Decimal Question:
 
 $
   \Large 3.1 \times 2.56
 $
 
-## Question Three Steps:
+## Multiply Decimal Question Steps:
 
 > <img alt="solving question three equation" src={useBaseUrl('curriculum-img/math/basic-math/7/3.png')} />
 
-## Question Three Answer:
+## Multiply Decimal Question Answer:
 
 $
   \Large 7.936
@@ -115,17 +115,17 @@ $
 
 ---
 
-## Question Four:
+## Divide Decimal Question Four:
 
 $
   \Large 55.318 \div 3.4
 $
 
-## Question Four Steps:
+## Divide Decimal Question Steps:
 
 > <img alt="diving 2 decimals" src={useBaseUrl('curriculum-img/math/basic-math/7/4.png')} />
 
-## Question Four Answer:
+## Divide Decimal Question Answer:
 
 $
   \Large 16.27

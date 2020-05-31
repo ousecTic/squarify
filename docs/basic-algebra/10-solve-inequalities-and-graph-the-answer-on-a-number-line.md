@@ -119,19 +119,19 @@ $
 > ### 1. Setup the equation
 >
 > $
-> 100 + 10x = 300
+> 100 + 10x \geq 300
 >$
 
 > ### 2. Subtract 100 to both sides
 >
 > $
-> 10x = 200
+> 10x \geq 200
 >$
 
 > ### 3. Divide both sides by 10
 >
 > $
-> x = 20
+> x \geq 20
 >$
 
 ## Word Problem Answer:

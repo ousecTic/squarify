@@ -10,7 +10,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Question:
 
-<font size="5">An amusement park has tickets for children, adults and seniors. The ticket prices for children c cost 20 dollars, the ticket prices for adults cost 30 dollars, and the ticket prices for seniors cost 25 dollars. Which expression represents the money made from the amusement park that day?</font>
+<font size="5">An amusement park has tickets for children, adults and seniors. The ticket prices for children c cost 20 dollars, the ticket prices for adults a cost 30 dollars, and the ticket prices for seniors s cost 25 dollars. Which expression represents the money made from the amusement park that day?</font>
 
 $
 {\text{ }}
