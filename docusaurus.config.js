@@ -19,8 +19,8 @@ module.exports = {
     },
   ],
   themeConfig: {
-    ogImage: "img/logo.png",
-
+    image: "img/squarify-logo.png",
+    ogImage: "img/squarify-logo.png",
     twitterImage: "img/squarify-logo.png",
 
     navbar: {
