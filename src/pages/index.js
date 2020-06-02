@@ -60,8 +60,8 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout
-      title={`GED tutorials `}
-      description="Squarify provides free GED math tutorial <head />"
+      title={`GED tutorials`}
+      description="Squarify provides free GED math tutorial"
     >
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
