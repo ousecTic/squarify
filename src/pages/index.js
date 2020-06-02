@@ -2,6 +2,7 @@ import React from "react";
 import classnames from "classnames";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
+import MySEO from "./MySEO";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
@@ -58,10 +59,7 @@ function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="squarify <head />"
-    >
+    <Layout title={`GED tutorials `} description="squarify <head />">
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>

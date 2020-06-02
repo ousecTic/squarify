@@ -95,17 +95,14 @@ module.exports = {
           title: "Feedback",
           items: [
             {
-              label: "Feedback form",
+              label: "Feedback Form",
               href:
                 "https://docs.google.com/forms/d/e/1FAIpQLSevIBQPyKWi25Eym5AB1dneEgnOI9o_s9EqIQi9My9KxZ_Z1w/viewform",
             },
           ],
         },
       ],
-      logo: {
-        alt: "Squarify logo",
-        src: "img/squarify-logo.png",
-      },
+
       copyright: ` GED® is a registered trademark of the American Council on Education (ACE) and administered exclusively by GED Testing Service LLC under license. This content is not endorsed or approved by ACE or GED Testing Service. 
       `,
     },
