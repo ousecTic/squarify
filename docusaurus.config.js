@@ -19,7 +19,7 @@ module.exports = {
     },
   ],
   themeConfig: {
-    ogImage: "img/squarify-logo.png",
+    ogImage: "img/logo.png",
 
     twitterImage: "img/squarify-logo.png",
 
