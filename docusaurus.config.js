@@ -21,7 +21,7 @@ module.exports = {
   themeConfig: {
     ogImage: "img/squarify-logo.png",
 
-    twitterImage: "img/squariy-logo.png",
+    twitterImage: "img/squarify-logo.png",
 
     navbar: {
       hideOnScroll: true,
