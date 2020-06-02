@@ -3,7 +3,7 @@ const katex = require("rehype-katex");
 
 module.exports = {
   title: "Squarify",
-  tagline: "Squarify provides Free tutorial over GED math",
+  tagline: "Squarify provides free GED math tutorial",
   url: "https://squarify.com",
   baseUrl: "/",
   favicon: "img/squarify-logo.png",
@@ -50,9 +50,6 @@ module.exports = {
           position: "right",
         },
       ],
-      image: "img/squarify-logo.png",
-      ogImage: "img/squarify-logo.png",
-      twitterImage: "img/squarify-logo.png",
     },
 
     plugins: ["@docusaurus/plugin-google-analytics"],
@@ -112,6 +109,9 @@ module.exports = {
       copyright: ` GED® is a registered trademark of the American Council on Education (ACE) and administered exclusively by GED Testing Service LLC under license. This content is not endorsed or approved by ACE or GED Testing Service. 
       `,
     },
+    image: "img/squarify-logo.png",
+    ogImage: "img/squarify-logo.png",
+    twitterImage: "img/squarify-logo.png",
   },
   presets: [
     [
