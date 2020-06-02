@@ -21,12 +21,14 @@ module.exports = {
   themeConfig: {
     ogImage: "img/squarify-logo.png",
 
+    twitterImage: "img/squariy-logo.png",
+
     navbar: {
-      title: "Squarify",
       hideOnScroll: true,
       logo: {
         alt: "Squarify",
-        src: "img/squarify-logo.png",
+        src: "img/nav-white-logo.png",
+        srcDark: "img/nav-black-logo.png",
       },
       links: [
         {

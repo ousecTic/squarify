@@ -10,6 +10,7 @@
 
 module.exports = {
   firstSidebar: {
+    "Join Our Online Classroom": ["join-community/join-community-1"],
     Math: [
       {
         type: "category",

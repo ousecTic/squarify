@@ -21,12 +21,21 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
+}
+
+.getStarted {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.joinCommunity {
+  margin-bottom: 1rem;
 }
 
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
   width: 100%;
 }
 

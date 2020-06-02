@@ -76,6 +76,16 @@ function Home() {
             >
               Get Started
             </Link>
+
+            <Link
+              className={classnames(
+                "button button--outline button--secondary button--lg ",
+                styles.joinCommunity
+              )}
+              to={useBaseUrl("/docs/join-community/join-community-1")}
+            >
+              Join Our Community
+            </Link>
           </div>
         </div>
       </header>
