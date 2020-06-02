@@ -61,7 +61,7 @@ function Home() {
   return (
     <Layout
       title={`GED tutorials `}
-      description="Squarify provides free GED math tutorial"
+      description="Squarify provides free GED math tutorial <head />"
     >
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
