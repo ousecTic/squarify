@@ -19,10 +19,6 @@ module.exports = {
     },
   ],
   themeConfig: {
-    image: "img/squarify-logo.png",
-    ogImage: "img/squarify-logo.png",
-    twitterImage: "img/squarify-logo.png",
-
     navbar: {
       hideOnScroll: true,
       logo: {
@@ -54,6 +50,9 @@ module.exports = {
           position: "right",
         },
       ],
+      image: "img/squarify-logo.png",
+      ogImage: "img/squarify-logo.png",
+      twitterImage: "img/squarify-logo.png",
     },
 
     plugins: ["@docusaurus/plugin-google-analytics"],
