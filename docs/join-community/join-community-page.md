@@ -11,7 +11,7 @@ sidebar_label: Discord Group
 <br />
 
 :::tip Join by clicking here:
-<font size="5"><a href="https://discord.gg/3YUfPZf" target="_blank">Discord Invitation</a></font>
+<font size="5"><a href="https://discord.gg/mCGJjy3" target="_blank">Discord Invitation</a></font>
 :::
 
 - <font size="5">Introduce yourself</font>
@@ -46,5 +46,5 @@ Go to the #GED Study Buddies and try to find a buddy who is starting the GED cou
 :::
 
 :::tip Join by clicking here:
-<font size="5"><a href="https://discord.gg/3YUfPZf" target="_blank">Discord Invitation</a></font>
+<font size="5"><a href="https://discord.gg/mCGJjy3" target="_blank">Discord Invitation</a></font>
 :::

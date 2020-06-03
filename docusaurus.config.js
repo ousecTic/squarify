@@ -52,7 +52,7 @@ module.exports = {
           position: "right",
         },
         {
-          href: "https://discord.gg/3YUfPZf",
+          href: "https://discord.gg/mCGJjy3",
           label: "Discord",
           position: "right",
         },
@@ -90,7 +90,7 @@ module.exports = {
           items: [
             {
               label: "Discord",
-              href: "https://discord.gg/3YUfPZf",
+              href: "https://discord.gg/mCGJjy3",
             },
             {
               label: "Facebook",
