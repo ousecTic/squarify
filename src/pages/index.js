@@ -13,8 +13,8 @@ const features = [
     imageUrl: "img/undraw_online_test.svg",
     description: (
       <>
-        In our maths tutorial, we go over common problems discuss in the GED
-        exam and provide the steps to conquering them.
+        In our math tutorial, we go over common problems discussed in the GED
+        exam and provide steps to conquering them.
       </>
     ),
   },
@@ -24,7 +24,7 @@ const features = [
     description: (
       <>
         Need help or trying to find a study buddy? Join our Facebook group and
-        discord to collaborate with like-minded people.
+        Discord Community to collaborate with like-minded people.
       </>
     ),
   },
