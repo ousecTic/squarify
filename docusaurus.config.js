@@ -19,6 +19,13 @@ module.exports = {
     },
   ],
   themeConfig: {
+    announcementBar: {
+      id: "announcement", // Any value that will identify this message.
+      content:
+        "We are going to release our geometry and graphs/function section on 6/24/2020!",
+      backgroundColor: "#fafbfc", // Defaults to `#fff`.
+      textColor: "#091E42", // Defaults to `#000`.
+    },
     navbar: {
       hideOnScroll: true,
       logo: {
